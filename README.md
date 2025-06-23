@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="name.gif" alt="ScrapBook Name Animation" width="100%" />
+</p>
 <!--
 **ShravyaDsouza/ShravyaDsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
