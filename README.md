@@ -2,16 +2,17 @@
   <img src="assets/hello.gif" alt="ScrapBook Welcome Animation" width="100%" height="50%" />
 </p>
 
-<h1 align="center">Built with intent</h1>
+<h1 align="center">Built with Intent</h1>
 
-<table>
+<table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravyadsouza&layout=compact&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravyadsouza&layout=compact&theme=radical" width="300" />
     </td>
     <td>
       <!-- Tech Stack Badges -->
       <h4 align="center">What Powers the Work</h4>
+      <div align="center" style="margin: 4px">
       <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -48,6 +49,7 @@
       <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
       <img src="https://img.shields.io/badge/-Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
       <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+      </div>
     </td>
   </tr>
 </table>
