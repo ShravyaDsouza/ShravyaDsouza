@@ -2,11 +2,13 @@
   <img src="assets/hello.gif" alt="ScrapBook Welcome Animation" width="100%" height="50%" />
 </p>
 
-## 📊 GitHub Stats
+## Built with intent
 
-![Shravya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravyadsouza&show_icons=true&theme=radical)
+# GitHub Stats
 
-## Tech Stack
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravyadsouza&layout=compact&theme=radical)
+
+# Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
