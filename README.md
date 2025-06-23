@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hello.gif" alt="ScrapBook Welcome Animation" width="100%" height="50%" />
+  <img src="assets/hello.gif" alt="ScrapBook Welcome Animation" width="100%" height="50%" />
 </p>
 <!--
 **ShravyaDsouza/ShravyaDsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
