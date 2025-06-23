@@ -7,11 +7,11 @@
 <table>
   <tr>
     <td>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravyadsouza&layout=compact&theme=radical)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravyadsouza&layout=compact&theme=radical" />
     </td>
     <td>
       <!-- Tech Stack Badges -->
-      <h2 align="center">What Powers the Work</h2>
+      <h4 align="center">What Powers the Work</h4>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
