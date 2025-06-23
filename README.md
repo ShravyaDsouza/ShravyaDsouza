@@ -6,10 +6,10 @@
 
 <table align="center">
   <tr>
-    <td>
+    <!-- <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravyadsouza&layout=compact&theme=radical" width="300" />
     </td>
-    <td>
+    <td> -->
       <!-- Tech Stack Badges -->
       <h4 align="center">What Powers the Work</h4>
       <div align="center" style="margin: 4px">
