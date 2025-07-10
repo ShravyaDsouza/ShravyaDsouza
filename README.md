@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hello.gif" alt="ScrapBook Welcome Animation" width="100%" height="50%" />
+  <img src="assets/hello.gif" alt="ScrapBook Welcome Animation" width="100%" height="350" />
 </p>
 
 <h1 align="center">Built with Intent</h1>
