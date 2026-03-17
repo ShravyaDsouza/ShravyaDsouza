@@ -45,8 +45,8 @@
     <!-- Languages -->
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+    <!--<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -55,11 +55,11 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
     <!-- Web & Backend -->
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+    <!--<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+    <!-- <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
     <!-- ML & Data -->
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
@@ -76,15 +76,15 @@
     <img src="https://img.shields.io/badge/HBase-0D597F?style=flat-square&logo=apache&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache%20Pig-FEAA2D?style=flat-square&logo=apache&logoColor=black"/>
     <!-- Orchestration & Streaming -->
-    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+    <!-- <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/Spark%20Streaming-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
     <!-- Infrastructure -->
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+    <!-- <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/> -->
+    <!-- <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/> -->
     <!-- Testing & APIs -->
     <img src="https://img.shields.io/badge/Locust-00C7B7?style=flat-square&logo=locust&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swagger%20UI-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
@@ -92,7 +92,7 @@
     <!-- Desktop -->
     <img src="https://img.shields.io/badge/Java%20Swing-007396?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tkinter-464646?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+    <!-- <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/> -->
     <!-- Build -->
     <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
     <!-- Platforms -->
@@ -114,9 +114,9 @@
 
 <h3>📫 How to reach me</h3>
 <p>
-  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> ·
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://shravya-dsouza.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/shravya-dsouza/">LinkedIn</a> ·
+  <a href="mailto:shravya.dsouza22@gmail.com">Email</a>
 </p>
 
 
