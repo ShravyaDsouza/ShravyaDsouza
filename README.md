@@ -3,7 +3,7 @@
 </p>
 
 <ul>
-  <li>Python developer intern building a startup product with FastAPI and PostgreSQL.</li>
+  <li>Python Developer Intern building a startup product using FastAPI, PostgreSQL, and React.js.</li>  
   <li>Learning data warehousing, deep learning, and agentic AI.</li>
   <li>Open to applied AI/ML research collaborations.</li>
   <li>Looking for guidance on cloud deployment and production readiness.</li>
